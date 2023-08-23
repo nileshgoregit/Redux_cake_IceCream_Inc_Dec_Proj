@@ -1,0 +1,1 @@
+export const BUY_COOK = "BUY_COOK"
